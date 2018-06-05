@@ -1,0 +1,5 @@
+git init  //To Initialize 
+git add . *  //To add the file of any format
+git commit -m "first"  //Data is safely stored in your local database with a message into inverted commas
+git remote add origin <url>  //It links our local repository with a remote repository
+git push -u origin master  //It push changes from the local master branch to the remote master branch.
